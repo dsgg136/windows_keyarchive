@@ -1,4 +1,5 @@
-本文中提到的Windows激活工具
+
+
 
 小马激活工具：https://www.downza.cn/soft/5702.html
 
@@ -40,6 +41,10 @@ KMSAuto：https://github.com/downloads-Kms/KMSAuto/
 
 知乎：https://www.zhihu.com/question/385942992
 
+https://cmwtat.cloudmoe.com/cn.html?lengmao
+
 爱纯净：https://www.aichunjing.cn/tag/%e6%bf%80%e6%b4%bb%e5%b7%a5%e5%85%b7
 
 kmspico中文网：http://kmspico.micaesoft.com/
+
+云萌 Windows 10+ 激活工具：https://cmwtat.cloudmoe.com/cn.html?lengmao
