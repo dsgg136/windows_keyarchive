@@ -25,3 +25,21 @@ win10一键激活工具下载-永久激活工具下载:https://github.com/wjl110
 Microsoft-Activation-Scripts_Chinese:https://github.com/SeimoDev/Microsoft-Activation-Scripts_Chinese
 
 HEU KMS Activator:https://github.com/shuhongfan/WIN_ACTIVITE
+
+KMS GUI EIDI:https://www.pcsoft.com.cn/soft/41721.html
+
+ActTools:https://github.com/laomms/KmsTool
+
+全部激活工具：https://www.heu8.net/kms
+
+KMSPico：https://github.com/KMSActivator-v11/KMSPico?tab=readme-ov-file
+
+windows11激活命令【腾讯云】：https://cloud.tencent.com/developer/article/2450643
+
+KMSAuto：https://github.com/downloads-Kms/KMSAuto/
+
+知乎：https://www.zhihu.com/question/385942992
+
+爱纯净：https://www.aichunjing.cn/tag/%e6%bf%80%e6%b4%bb%e5%b7%a5%e5%85%b7
+
+kmspico中文网：http://kmspico.micaesoft.com/
