@@ -1,4 +1,4 @@
-
+本文提到windows激活工具
 
 
 小马激活工具：https://www.downza.cn/soft/5702.html
@@ -48,3 +48,5 @@ https://cmwtat.cloudmoe.com/cn.html?lengmao
 kmspico中文网：http://kmspico.micaesoft.com/
 
 云萌 Windows 10+ 激活工具：https://cmwtat.cloudmoe.com/cn.html?lengmao
+
+microsoft-activation-scripts【gitlab】：https://gitlab.com/jiujiawei/microsoft-activation-scripts
